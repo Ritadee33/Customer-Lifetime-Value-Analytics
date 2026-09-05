@@ -70,8 +70,6 @@ See image below:
 The image below is the snapshot of the interactive dashboard design
 <img width="940" height="526" alt="image" src="https://github.com/user-attachments/assets/8b2a4e0d-373f-4a01-a90c-5553ab066019" />
 
-To interact with the dashboard using the filters such as By Location, By income Level, and By Engagement Status.
-Kindly download the Power BI file [Download Here]()
 
 #### RECOMMENDATION
 1. Reorient acquisition strategy toward Middle-income customers.
